@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "react": "18.1.0",
+     "react-native": "0.70.1",
     "@formatjs/intl": "^2.2.1",
     "@react-native-async-storage/async-storage": "^1.17.3",
     "@react-native-community/cli-platform-android": "^8.0.2",
@@ -43,13 +45,10 @@
     "google-libphonenumber": "^3.2.30",
     "invariant": "^2.2.4",
     "lodash": "^4.17.21",
-    "mentorcliq-js-storage": "https://bayazetyan:ATBB4YLP2PsDfKqMJsgkrNAbd3BVA397F067@bitbucket.org/mentorcliq/mentorcliq-js-storage.git",
     "moment": "^2.29.2",
     "patch-package": "^6.4.7",
     "postinstall-postinstall": "^2.1.0",
-    "react": "17.0.2",
     "react-intl": "^5.25.1",
-    "react-native": "0.68.0",
     "react-native-cn-quill": "^0.7.15",
     "react-native-default-preference": "^1.4.4",
     "react-native-device-info": "^8.7.0",
